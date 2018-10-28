@@ -1,0 +1,10 @@
+C:\2 курс\ДМ\InsertionSearch\InsertionSort.ver2\bin\Debug\InsertionSort.ver2.exe.config
+C:\2 курс\ДМ\InsertionSearch\InsertionSort.ver2\bin\Debug\InsertionSort.ver2.exe
+C:\2 курс\ДМ\InsertionSearch\InsertionSort.ver2\bin\Debug\InsertionSort.ver2.pdb
+C:\2 курс\ДМ\InsertionSearch\InsertionSort.ver2\bin\Debug\ClassLib.dll
+C:\2 курс\ДМ\InsertionSearch\InsertionSort.ver2\bin\Debug\ClassLib.pdb
+C:\2 курс\ДМ\InsertionSearch\InsertionSort.ver2\obj\Debug\InsertionSort.ver2.csproj.CoreCompileInputs.cache
+C:\2 курс\ДМ\InsertionSearch\InsertionSort.ver2\obj\Debug\InsertionSort.ver2.csproj.CopyComplete
+C:\2 курс\ДМ\InsertionSearch\InsertionSort.ver2\obj\Debug\InsertionSort.ver2.exe
+C:\2 курс\ДМ\InsertionSearch\InsertionSort.ver2\obj\Debug\InsertionSort.ver2.pdb
+C:\2 курс\ДМ\InsertionSearch\InsertionSort.ver2\obj\Debug\InsertionSort.ver2.csprojAssemblyReference.cache
